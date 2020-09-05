@@ -1,5 +1,5 @@
-# LLVM
-LOW LEVEL VIRTUAL MACHINE
+# emsdk
+web 
 
 
 https://en.m.wikipedia.org/wiki/LLVM
@@ -12,6 +12,6 @@ https://llvm.org/
 
 https://wiki.archlinux.org/index.php/LLVM
 
-https://llvm.org/docs/GlobalISel/GenericOpcode.html
+
 
 
