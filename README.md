@@ -1,6 +1,6 @@
-# LLVM
+# gcc
 
-LOW LEVEL VIRTUAL MACHINE
+g compiler c source code
 
 
 
