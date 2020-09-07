@@ -24,7 +24,7 @@ https://wiki.archlinux.org/index.php/LLVM
 https://llvm.org/docs/GlobalISel/GenericOpcode.html
 
 rio
-https://www.llvm.org/
+
 
 
 
