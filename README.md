@@ -23,7 +23,7 @@ https://wiki.archlinux.org/index.php/LLVM
 
 https://llvm.org/docs/GlobalISel/GenericOpcode.html
 
-
+rio
 https://www.llvm.org/
 
 
@@ -32,7 +32,7 @@ https://emscripten.org/
 
 
 
-https://linux.die.net/man/1/lli
+
 
 
 
