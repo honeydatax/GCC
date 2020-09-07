@@ -17,7 +17,7 @@ https://en.m.wikipedia.org/wiki/Clang
 
 
 
-https://wiki.archlinux.org/index.php/LLVM
+
 
 
 
