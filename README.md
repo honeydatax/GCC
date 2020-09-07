@@ -7,7 +7,7 @@ g compiler c source code
 
 
 
-https://en.m.wikipedia.org/wiki/LLVM
+
 
 
 
